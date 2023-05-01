@@ -24,7 +24,6 @@ import java.util.Base64;
 public class ClickOnElement {
     public static void main(String[] args) throws InterruptedException, IOException {
         AppiumDriver<MobileElement> appiumDriver = BasePage.getAppiumDriver();
-        ((CanRecordScreen) appiumDriver).startRecordingScreen();
         Thread.sleep(10000);
         MobileElement loginLabel = appiumDriver.findElementByAccessibilityId("Login");
         loginLabel.click();
@@ -94,17 +93,6 @@ public class ClickOnElement {
                 .release()
                 .perform();
 
-
-        String video = ((CanRecordScreen)appiumDriver).stopRecordingScreen();
-        //Save the records video\
-        byte[] decodevideo = Base64.getMimeDecoder().decode(video);
-        String videoDir = System.getProperty("user.dir") + "/videos";
-        Path testVideoDir = Paths.get(videoDir);
-        Files.createDirectories(testVideoDir);
-        Path testVideoFileLocation = Paths.get(testVideoDir.toString(), String.format("%s-%d.%s", "test", System.currentTimeMillis(), "mp4"));
-        Files.write(testVideoFileLocation, decodevideo);
-
+        appiumDriver.runAppInBackground(Duration.ofSeconds(5));
     }
-
-    //Record a video
 }
