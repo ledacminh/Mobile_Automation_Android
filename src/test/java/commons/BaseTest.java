@@ -10,9 +10,9 @@ import java.net.URL;
 import java.util.concurrent.TimeUnit;
 
 public class BaseTest {
-    private AndroidDriver<MobileElement> androidDriver;
+    private static AndroidDriver<MobileElement> androidDriver;
 
-    public AndroidDriver<MobileElement> getAppiumDriver() {
+    public static AndroidDriver<MobileElement> getAppiumDriver() {
         try {
             DesiredCapabilities desiredCapabilities = new DesiredCapabilities();
             desiredCapabilities.setCapability(MobileCapabilityTypeEx.PLATFORM_NAME, "Android");
@@ -35,4 +35,7 @@ public class BaseTest {
         return androidDriver;
     }
 
+    public void closeDriver(AndroidDriver<MobileElement> androidDriver) {
+        androidDriver.quit();
+    }
 }
