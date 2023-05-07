@@ -1,14 +1,21 @@
 package commons;
 
 import io.appium.java_client.MobileElement;
+import io.appium.java_client.MultiTouchAction;
+import io.appium.java_client.TouchAction;
 import io.appium.java_client.android.AndroidDriver;
+import io.appium.java_client.touch.WaitOptions;
+import io.appium.java_client.touch.offset.ElementOption;
+import io.appium.java_client.touch.offset.PointOption;
 import org.openqa.selenium.By;
+import org.openqa.selenium.Dimension;
 import org.openqa.selenium.Keys;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.interactions.Actions;
 import org.openqa.selenium.support.ui.ExpectedConditions;
 import org.openqa.selenium.support.ui.WebDriverWait;
 
+import java.time.Duration;
 import java.util.List;
 import java.util.concurrent.TimeUnit;
 
@@ -136,7 +143,7 @@ public class BasePage {
     }
 
     public void setImplicitTime(AndroidDriver<MobileElement> androidDriver, long timeInSecond) {
-        androidDriver.manage().timeouts().implicitlyWait(GlobalConstants.TIME_OUT, TimeUnit.SECONDS);
+        androidDriver.manage().timeouts().implicitlyWait(timeInSecond, TimeUnit.SECONDS);
     }
 
     public void rightClickOnElement(AndroidDriver<MobileElement> androidDriver, String locator, String... params) {
@@ -174,5 +181,88 @@ public class BasePage {
         waitForElementIsVisible(androidDriver, locator, params);
         actions = new Actions(androidDriver);
         actions.sendKeys(getDynamicElement(androidDriver, locator, params), keys).perform();
+    }
+
+    //Tap by coordinates
+    public void tapByCoordinates(AndroidDriver<MobileElement> androidDriver, int x, int y) {
+        new TouchAction(androidDriver)
+                .tap(PointOption.point(x, y))
+                .waitAction(new WaitOptions().withDuration(Duration.ofSeconds(GlobalConstants.WAIT_ACTION))).perform();
+    }
+
+    //Press by element
+    public void pressByElement(AndroidDriver<MobileElement> androidDriver, MobileElement element, long seconds) {
+        new TouchAction(androidDriver)
+                .press(ElementOption.element(element))
+                .waitAction(new WaitOptions().withDuration(Duration.ofSeconds(seconds)))
+                .release()
+                .perform();
+    }
+
+    //Press by coordinates
+    public void pressByCoordinates(AndroidDriver<MobileElement> androidDriver, int x, int y, long seconds) {
+        new TouchAction(androidDriver)
+                .press(PointOption.point(x, y))
+                .waitAction(new WaitOptions().withDuration(Duration.ofSeconds(seconds)))
+                .release()
+                .perform();
+    }
+
+    //Horizontal Swipe by percentages
+    public void horizontalSwipeByPercentage(AndroidDriver<MobileElement> androidDriver, int startPercentage, int endPercentage, int anchorPercentage) {
+        Dimension size = androidDriver.manage().window().getSize();
+        int anchor = (int) (size.height * anchorPercentage / 100);
+        int startPoint = (int) (size.width * startPercentage / 100);
+        int endPoint = (int) (size.width * endPercentage / 100);
+        new TouchAction(androidDriver)
+                .press(PointOption.point(startPoint, anchor))
+                .waitAction(new WaitOptions().withDuration(Duration.ofSeconds(GlobalConstants.WAIT_ACTION)))
+                .moveTo(PointOption.point(endPoint, anchor))
+                .release().perform();
+    }
+
+    //Vertical Swipe by percentages
+    public void verticalSwipeByPercentages(AndroidDriver<MobileElement> androidDriver, int startPercentage, int endPercentage, int anchorPercentage) {
+        Dimension size = androidDriver.manage().window().getSize();
+        int anchor = (int) (size.width * anchorPercentage / 100);
+        int startPoint = (int) (size.height * startPercentage / 100);
+        int endPoint = (int) (size.height * endPercentage / 100);
+        PointOption start = new PointOption().withCoordinates(anchor, startPoint);
+        PointOption end = new PointOption().withCoordinates(anchor, endPoint);
+        TouchAction touchAction = new TouchAction(androidDriver);
+        touchAction
+                .press(start)
+                .waitAction(new WaitOptions().withDuration(Duration.ofSeconds(GlobalConstants.WAIT_ACTION)))
+                .moveTo(end)
+                .release().perform();
+    }
+
+    //Swipe by elements
+    public void swipeByElements(AndroidDriver<MobileElement> androidDriver, MobileElement startElement, MobileElement endElement) {
+        int startX = startElement.getLocation().getX() + (startElement.getSize().getWidth() / 2);
+        int startY = startElement.getLocation().getY() + (startElement.getSize().getHeight() / 2);
+        int endX = endElement.getLocation().getX() + (endElement.getSize().getWidth() / 2);
+        int endY = endElement.getLocation().getY() + (endElement.getSize().getHeight() / 2);
+        new TouchAction(androidDriver)
+                .press(PointOption.point(startX, startY))
+                .waitAction(new WaitOptions().withDuration(Duration.ofSeconds(GlobalConstants.WAIT_ACTION)))
+                .moveTo(PointOption.point(endX, endY))
+                .release().perform();
+    }
+
+    //Multitouch action by using an android element
+    public void multiTouchByElement(AndroidDriver<MobileElement> androidDriver, MobileElement androidElement) {
+        TouchAction press = new TouchAction(androidDriver)
+                .press(ElementOption.element(androidElement))
+                .waitAction(new WaitOptions().withDuration(Duration.ofSeconds(GlobalConstants.WAIT_ACTION)))
+                .release();
+        new MultiTouchAction(androidDriver)
+                .add(press)
+                .perform();
+
+    }
+
+    public void activeApp(AndroidDriver<MobileElement> androidDriver, String bundleId) {
+        androidDriver.activateApp(bundleId);
     }
 }

@@ -1,0 +1,44 @@
+[INFO ] 07-05-2023 11:03:04 [main] Log - Enter an email to Email field
+[INFO ] 07-05-2023 11:03:05 [main] Log - Enter a password to Password field
+[INFO ] 07-05-2023 11:03:07 [main] Log - Click on Login button
+[INFO ] 07-05-2023 11:04:14 [main] Log - Starting......!
+[INFO ] 07-05-2023 11:04:14 [main] Log - Enter an email to Email field
+[INFO ] 07-05-2023 11:04:15 [main] Log - Enter a password to Password field
+[INFO ] 07-05-2023 11:04:16 [main] Log - Click on Login button
+[INFO ] 07-05-2023 11:18:33 [main] Log - Starting......!
+[INFO ] 07-05-2023 11:18:44 [main] Log - Starting......!
+[INFO ] 07-05-2023 11:20:21 [main] Log - Starting......!
+[INFO ] 07-05-2023 11:20:32 [main] Log - Starting......!
+[INFO ] 07-05-2023 11:25:23 [main] Log - Starting......!
+[INFO ] 07-05-2023 11:25:34 [main] Log - Starting......!
+[INFO ] 07-05-2023 11:27:56 [main] Log - Starting......!
+[INFO ] 07-05-2023 11:28:07 [main] Log - Starting......!
+[INFO ] 07-05-2023 14:17:39 [main] Log - Starting......!
+[INFO ] 07-05-2023 14:18:35 [main] Log - Starting......!
+[INFO ] 07-05-2023 14:18:49 [main] Log - Starting......!
+[INFO ] 07-05-2023 14:21:06 [main] Log - Starting......!
+[INFO ] 07-05-2023 14:21:20 [main] Log - Starting......!
+[INFO ] 07-05-2023 14:30:37 [main] Log - Starting......!
+[INFO ] 07-05-2023 14:30:51 [main] Log - Starting......!
+[INFO ] 07-05-2023 14:32:57 [main] Log - Starting......!
+[INFO ] 07-05-2023 14:32:57 [main] Log - Enter an email to Email field
+[INFO ] 07-05-2023 14:32:58 [main] Log - Enter a password to Password field
+[INFO ] 07-05-2023 14:33:01 [main] Log - Click on Login button
+[INFO ] 07-05-2023 14:47:42 [main] Log - Starting......!
+[INFO ] 07-05-2023 14:47:56 [main] Log - Starting......!
+[INFO ] 07-05-2023 14:58:44 [main] Log - Start testing Testing on Login Page
+[INFO ] 07-05-2023 14:58:55 [main] Log - Starting......!
+[INFO ] 07-05-2023 14:58:55 [main] Log - test_o1 Test is starting...
+[INFO ] 07-05-2023 14:58:56 [main] Log - Enter an email to Email field
+[INFO ] 07-05-2023 14:58:58 [main] Log - Enter a password to Password field
+[INFO ] 07-05-2023 14:58:59 [main] Log - Click on Login button
+[INFO ] 07-05-2023 14:59:01 [main] Log - test_o1 Test is passed.
+[INFO ] 07-05-2023 14:59:02 [main] Log - End testing Testing on Login Page
+[INFO ] 07-05-2023 15:36:22 [main] Log - Start testing Testing on Login Page
+[INFO ] 07-05-2023 15:36:34 [main] Log - Starting......!
+[INFO ] 07-05-2023 15:36:34 [main] Log - test_o1 Test is starting...
+[INFO ] 07-05-2023 15:36:35 [main] Log - Enter an email to Email field
+[INFO ] 07-05-2023 15:36:36 [main] Log - Enter a password to Password field
+[INFO ] 07-05-2023 15:36:37 [main] Log - Click on Login button
+[ERROR] 07-05-2023 15:37:07 [main] Log - test_o1 Test is failed.
+[INFO ] 07-05-2023 15:37:09 [main] Log - End testing Testing on Login Page
