@@ -211,3 +211,31 @@
 [INFO ] 08-05-2023 16:33:56 [main] Log - Click on Login button
 [INFO ] 08-05-2023 16:33:57 [main] Log - [test_01] [PASSED]
 [INFO ] 08-05-2023 16:33:58 [main] Log - Kết thúc thực hiện chạy test case Mobile_Automation
+[INFO ] 08-05-2023 20:48:40 [main] Log - Bắt đầu thực hiện chạy test case Mobile_Automation
+[INFO ] 08-05-2023 20:48:59 [main] Log - Starting......!
+[INFO ] 08-05-2023 20:48:59 [main] Log - Enter an email to Email field
+[INFO ] 08-05-2023 20:49:01 [main] Log - Enter a password to Password field
+[INFO ] 08-05-2023 20:49:04 [main] Log - Click on Login button
+[INFO ] 08-05-2023 20:49:05 [main] Log - [test_01] [PASSED]
+[INFO ] 08-05-2023 20:49:06 [main] Log - Kết thúc thực hiện chạy test case Mobile_Automation
+[INFO ] 08-05-2023 20:49:16 [main] Log - Bắt đầu thực hiện chạy test case Mobile_Automation
+[INFO ] 08-05-2023 20:49:26 [main] Log - Starting......!
+[INFO ] 08-05-2023 20:49:27 [main] Log - Enter an email to Email field
+[INFO ] 08-05-2023 20:49:28 [main] Log - Enter a password to Password field
+[INFO ] 08-05-2023 20:49:30 [main] Log - Click on Login button
+[INFO ] 08-05-2023 20:49:32 [main] Log - [test_01] [PASSED]
+[INFO ] 08-05-2023 20:49:32 [main] Log - Kết thúc thực hiện chạy test case Mobile_Automation
+[INFO ] 08-05-2023 20:49:56 [main] Log - Bắt đầu thực hiện chạy test case Testing on Login Page
+[INFO ] 08-05-2023 20:50:07 [main] Log - Starting......!
+[INFO ] 08-05-2023 20:50:07 [main] Log - Enter an email to Email field
+[INFO ] 08-05-2023 20:50:10 [main] Log - Enter a password to Password field
+[INFO ] 08-05-2023 20:50:12 [main] Log - Click on Login button
+[INFO ] 08-05-2023 20:50:14 [main] Log - [test_01] [PASSED]
+[INFO ] 08-05-2023 20:50:14 [main] Log - Kết thúc thực hiện chạy test case Testing on Login Page
+[INFO ] 08-05-2023 20:54:03 [TestNG-tests-1] Log - Bắt đầu thực hiện chạy test case Testing on Login Page
+[INFO ] 08-05-2023 20:54:14 [TestNG-tests-1] Log - Starting......!
+[INFO ] 08-05-2023 20:54:14 [TestNG-tests-1] Log - Enter an email to Email field
+[INFO ] 08-05-2023 20:54:16 [TestNG-tests-1] Log - Enter a password to Password field
+[INFO ] 08-05-2023 20:54:18 [TestNG-tests-1] Log - Click on Login button
+[INFO ] 08-05-2023 20:54:19 [TestNG-tests-1] Log - [test_01] [PASSED]
+[INFO ] 08-05-2023 20:54:20 [TestNG-tests-1] Log - Kết thúc thực hiện chạy test case Testing on Login Page

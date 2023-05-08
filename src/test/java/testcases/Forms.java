@@ -8,6 +8,7 @@ import commons.PageGenerateManager;
 import io.appium.java_client.MobileElement;
 import io.appium.java_client.android.AndroidDriver;
 import org.testng.annotations.BeforeMethod;
+import org.testng.annotations.Parameters;
 import org.testng.annotations.Test;
 
 public class Forms extends BaseTest {
@@ -15,9 +16,10 @@ public class Forms extends BaseTest {
     private FormsPage formsPage;
     private AndroidDriver<MobileElement>androidDriver;
 
+    @Parameters("url")
     @BeforeMethod
-    public void init() {
-        androidDriver = getAppiumDriver();
+    public void init(String url) {
+        androidDriver = getAppiumDriver(url);
         homePage = PageGenerateManager.getHomePage(androidDriver);
         homePage.clickOnFormButton();
         formsPage = PageGenerateManager.getFormsPage(androidDriver);

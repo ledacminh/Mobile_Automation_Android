@@ -16,9 +16,10 @@ public class Login extends BaseTest {
     private LoginPage loginPage;
     private HomePage homePage;
 
+    @Parameters("url")
     @BeforeMethod
-    public void init() {
-        androidDriver = getAppiumDriver();
+    public void init(String url) {
+        androidDriver = getAppiumDriver(url);
         homePage = PageGenerateManager.getHomePage(androidDriver);
         homePage.clickOnLoginButton();
         loginPage = PageGenerateManager.getLoginPage(androidDriver);

@@ -21,10 +21,9 @@ import java.util.Base64;
 import java.util.concurrent.TimeUnit;
 
 public class BaseTest {
-    //private static AndroidDriver<MobileElement> androidDriver;
     private static final ThreadLocal<AndroidDriver<MobileElement>> androidDriver = new ThreadLocal<>();
 
-    public static AndroidDriver<MobileElement> getAppiumDriver() {
+    public static AndroidDriver<MobileElement> getAppiumDriver(String url) {
         try {
             DesiredCapabilities desiredCapabilities = new DesiredCapabilities();
             desiredCapabilities.setCapability(MobileCapabilityTypeEx.PLATFORM_NAME, "Android");
@@ -34,9 +33,7 @@ public class BaseTest {
             desiredCapabilities.setCapability(MobileCapabilityTypeEx.APP_ACTIVITY, "com.wdiodemoapp.MainActivity");
             desiredCapabilities.setCapability(MobileCapabilityTypeEx.NEW_COMMAND_TIMEOUT, GlobalConstants.TIME_OUT);
 
-            //Set up the appium server url to connect
-            //URL androidServer = new URL(url);
-            URL androidServer = new URL("http://localhost:4723/wd/hub");
+            URL androidServer = new URL(url);
             androidDriver.set(new AndroidDriver<>(androidServer, desiredCapabilities));
             androidDriver.get().manage().timeouts().implicitlyWait(GlobalConstants.TIME_OUT, TimeUnit.SECONDS);
 
@@ -59,15 +56,16 @@ public class BaseTest {
         ((CanRecordScreen) androidDriver).startRecordingScreen();
     }
 
-    public void stopRecordingVideo(AndroidDriver<MobileElement> androidDriver) {
+    public void stopRecordingVideo(AndroidDriver<MobileElement> androidDriver, ITestResult iTestResult) {
         try {
             String video = ((CanRecordScreen) androidDriver).stopRecordingScreen();
             //Save the records video
             byte[] decodeVideo = Base64.getMimeDecoder().decode(video);
-            String videoDir = System.getProperty("user.dir") + "/videos";
+            String videoDir = GlobalConstants.PROJECT_PATH + "/videos";
             Path testVideoDir = Paths.get(videoDir);
             Files.createDirectories(testVideoDir);
-            Path testVideoFileLocation = Paths.get(testVideoDir.toString(), String.format("%s-%d.%s", "test", System.currentTimeMillis(), "mp4"));
+            //Path testVideoFileLocation = Paths.get(testVideoDir.toString(), String.format("%s-%d.%s", "Test", System.currentTimeMillis(), "mp4"));
+            Path testVideoFileLocation = Paths.get(testVideoDir.toString(), iTestResult.getName() + "_" + GlobalConstants.CURRENT_DATE_TIME + ".mp4");
             Files.write(testVideoFileLocation, decodeVideo);
         } catch (IOException e) {
             throw new RuntimeException(e.getMessage());
