@@ -1,0 +1,1 @@
+appium -p 4446 --nodeconfig node2Config.json

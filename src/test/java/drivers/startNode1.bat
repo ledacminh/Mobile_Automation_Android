@@ -1,0 +1,1 @@
+appium -p 4445 --nodeconfig node1Config.json
