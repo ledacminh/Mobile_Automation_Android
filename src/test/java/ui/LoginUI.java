@@ -5,6 +5,6 @@ public class LoginUI {
 
     public static final String PASSWORD = "//android.widget.EditText[@content-desc=\"input-password\"]";
 
-    public static final String BUTTON_LOGIN = "android.view.ViewGroup[@content-desc=\"button-LOGIN\"]/android.view.ViewGroup";
+    public static final String BUTTON_LOGIN = "//android.view.ViewGroup[@content-desc=\"button-LOGIN\"]/android.view.ViewGroup";
 
 }

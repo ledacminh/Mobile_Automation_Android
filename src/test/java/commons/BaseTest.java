@@ -3,10 +3,9 @@ package commons;
 import io.appium.java_client.MobileElement;
 import io.appium.java_client.android.AndroidDriver;
 import io.appium.java_client.screenrecording.CanRecordScreen;
+import org.apache.commons.io.FileUtils;
 import org.openqa.selenium.OutputType;
 import org.openqa.selenium.TakesScreenshot;
-import org.openqa.selenium.WebDriver;
-import org.openqa.selenium.io.FileHandler;
 import org.openqa.selenium.remote.DesiredCapabilities;
 import org.testng.ITestResult;
 import utils.MobileCapabilityTypeEx;
@@ -22,7 +21,8 @@ import java.util.Base64;
 import java.util.concurrent.TimeUnit;
 
 public class BaseTest {
-    private static AndroidDriver<MobileElement> androidDriver;
+    //private static AndroidDriver<MobileElement> androidDriver;
+    private static final ThreadLocal<AndroidDriver<MobileElement>> androidDriver = new ThreadLocal<>();
 
     public static AndroidDriver<MobileElement> getAppiumDriver() {
         try {
@@ -37,18 +37,18 @@ public class BaseTest {
             //Set up the appium server url to connect
             //URL androidServer = new URL(url);
             URL androidServer = new URL("http://localhost:4723/wd/hub");
-            androidDriver = new AndroidDriver<>(androidServer, desiredCapabilities);
-            androidDriver.manage().timeouts().implicitlyWait(GlobalConstants.TIME_OUT, TimeUnit.SECONDS);
+            androidDriver.set(new AndroidDriver<>(androidServer, desiredCapabilities));
+            androidDriver.get().manage().timeouts().implicitlyWait(GlobalConstants.TIME_OUT, TimeUnit.SECONDS);
 
         } catch (MalformedURLException e) {
             throw new RuntimeException(e.getMessage());
         }
 
-        return androidDriver;
+        return androidDriver.get();
     }
 
     public static AndroidDriver<MobileElement> getAndroidDriver() {
-        return androidDriver;
+        return androidDriver.get();
     }
 
     public void closeDriver(AndroidDriver<MobileElement> androidDriver) {
@@ -74,22 +74,14 @@ public class BaseTest {
         }
     }
 
-    public void takeScreenshots(AndroidDriver<MobileElement> androidDriver, ITestResult iTestResult) {
-        if (ITestResult.SUCCESS == iTestResult.getStatus()) {
-            try {
-                TakesScreenshot takesScreenshot = (TakesScreenshot) androidDriver;
-                File file = takesScreenshot.getScreenshotAs(OutputType.FILE);
-                File directory = new File(GlobalConstants.TAKE_SCREENSHOTS_PATH);
-                if (!directory.exists()) {
-                    boolean isCreated = directory.mkdirs();
-                    if (!isCreated) {
-                        throw new RuntimeException("[BaseTest][takeScreenshots] Created unsuccessfully");
-                    }
-                }
-                FileHandler.copy(file, new File(GlobalConstants.TAKE_SCREENSHOTS_PATH + iTestResult.getName() + "_" + GlobalConstants.CURRENT_DATE_TIME + ".png"));
-            } catch (Exception e) {
-                throw new RuntimeException("[BaseTest][takeScreenshots] Exception while taking screenshot " + e.getMessage());
-            }
+    public static void takeScreenshots(ITestResult iTestResult) {
+        try {
+            File formScreenBase64Data = ((TakesScreenshot) androidDriver.get()).getScreenshotAs(OutputType.FILE);
+            String formScreenPath = GlobalConstants.PROJECT_PATH + "/screenshots/" + iTestResult.getName() + "_" + GlobalConstants.CURRENT_DATE_TIME + ".png";
+            System.out.println("Path: " + formScreenPath);
+            FileUtils.copyFile(formScreenBase64Data, new File(formScreenPath));
+        } catch (IOException e) {
+            throw new RuntimeException("[BaseTest][takeScreenshots] Exception while taking screenshot " + e.getMessage());
         }
     }
 

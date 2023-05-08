@@ -1,0 +1,1 @@
+{"uuid":"5f9fafd6-55df-4c79-8256-79d40287459b","name":"Mobile_Automation","children":["1a22c4c8-5035-4d30-8cc4-f106bc20998c"],"befores":[{"name":"init","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1683536625453,"stop":1683536637443}],"afters":[],"start":1683536625434,"stop":1683536657137}

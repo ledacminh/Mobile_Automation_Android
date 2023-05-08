@@ -42,3 +42,172 @@
 [INFO ] 07-05-2023 15:36:37 [main] Log - Click on Login button
 [ERROR] 07-05-2023 15:37:07 [main] Log - test_o1 Test is failed.
 [INFO ] 07-05-2023 15:37:09 [main] Log - End testing Testing on Login Page
+[INFO ] 08-05-2023 13:51:17 [main] Log - Bắt đầu thực hiện chạy test case Mobile_Automation
+[INFO ] 08-05-2023 13:51:42 [main] Log - Starting......!
+[INFO ] 08-05-2023 13:51:43 [main] Log - Enter an email to Email field
+[INFO ] 08-05-2023 13:51:45 [main] Log - Enter a password to Password field
+[INFO ] 08-05-2023 13:51:47 [main] Log - Click on Login button
+[INFO ] 08-05-2023 13:52:17 [main] Log - [test_o1] [FAILED]
+[INFO ] 08-05-2023 13:52:27 [main] Log - Kết thúc thực hiện chạy test case Mobile_Automation
+[INFO ] 08-05-2023 14:02:08 [main] Log - Bắt đầu thực hiện chạy test case Mobile_Automation
+[INFO ] 08-05-2023 14:02:18 [main] Log - Starting......!
+[INFO ] 08-05-2023 14:02:18 [main] Log - Enter an email to Email field
+[INFO ] 08-05-2023 14:02:19 [main] Log - Enter a password to Password field
+[INFO ] 08-05-2023 14:02:21 [main] Log - Click on Login button
+[INFO ] 08-05-2023 14:02:51 [main] Log - [test_o1] [FAILED]
+[INFO ] 08-05-2023 14:03:00 [main] Log - Kết thúc thực hiện chạy test case Mobile_Automation
+[INFO ] 08-05-2023 14:05:10 [main] Log - Bắt đầu thực hiện chạy test case Mobile_Automation
+[INFO ] 08-05-2023 14:05:21 [main] Log - Starting......!
+[INFO ] 08-05-2023 14:05:21 [main] Log - Enter an email to Email field
+[INFO ] 08-05-2023 14:05:23 [main] Log - Enter a password to Password field
+[INFO ] 08-05-2023 14:05:25 [main] Log - Click on Login button
+[INFO ] 08-05-2023 14:05:55 [main] Log - [test_o1] [FAILED]
+[INFO ] 08-05-2023 14:06:04 [main] Log - Kết thúc thực hiện chạy test case Mobile_Automation
+[INFO ] 08-05-2023 14:13:37 [main] Log - Bắt đầu thực hiện chạy test case Mobile_Automation
+[INFO ] 08-05-2023 14:13:47 [main] Log - Starting......!
+[INFO ] 08-05-2023 14:13:47 [main] Log - Enter an email to Email field
+[INFO ] 08-05-2023 14:13:49 [main] Log - Enter a password to Password field
+[INFO ] 08-05-2023 14:13:50 [main] Log - Click on Login button
+[INFO ] 08-05-2023 14:14:20 [main] Log - [test_o1] [FAILED]
+[INFO ] 08-05-2023 14:14:28 [main] Log - Kết thúc thực hiện chạy test case Mobile_Automation
+[INFO ] 08-05-2023 14:16:09 [main] Log - Bắt đầu thực hiện chạy test case Mobile_Automation
+[INFO ] 08-05-2023 14:16:18 [main] Log - Starting......!
+[INFO ] 08-05-2023 14:16:18 [main] Log - Enter an email to Email field
+[INFO ] 08-05-2023 14:16:20 [main] Log - Enter a password to Password field
+[INFO ] 08-05-2023 14:16:21 [main] Log - Click on Login button
+[INFO ] 08-05-2023 14:16:51 [main] Log - [test_o1] [FAILED]
+[INFO ] 08-05-2023 14:17:01 [main] Log - Kết thúc thực hiện chạy test case Mobile_Automation
+[INFO ] 08-05-2023 14:17:45 [main] Log - Bắt đầu thực hiện chạy test case Mobile_Automation
+[INFO ] 08-05-2023 14:17:56 [main] Log - Starting......!
+[INFO ] 08-05-2023 14:17:56 [main] Log - Enter an email to Email field
+[INFO ] 08-05-2023 14:17:57 [main] Log - Enter a password to Password field
+[INFO ] 08-05-2023 14:17:59 [main] Log - Click on Login button
+[INFO ] 08-05-2023 14:18:29 [main] Log - [test_o1] [FAILED]
+[INFO ] 08-05-2023 14:18:39 [main] Log - Kết thúc thực hiện chạy test case Mobile_Automation
+[INFO ] 08-05-2023 14:22:12 [main] Log - Bắt đầu thực hiện chạy test case Mobile_Automation
+[INFO ] 08-05-2023 14:22:24 [main] Log - Starting......!
+[INFO ] 08-05-2023 14:22:24 [main] Log - Enter an email to Email field
+[INFO ] 08-05-2023 14:22:25 [main] Log - Enter a password to Password field
+[INFO ] 08-05-2023 14:22:27 [main] Log - Click on Login button
+[INFO ] 08-05-2023 14:22:57 [main] Log - [test_o1] [FAILED]
+[INFO ] 08-05-2023 14:23:06 [main] Log - Kết thúc thực hiện chạy test case Mobile_Automation
+[INFO ] 08-05-2023 14:30:30 [main] Log - Bắt đầu thực hiện chạy test case Mobile_Automation
+[INFO ] 08-05-2023 14:30:40 [main] Log - Starting......!
+[INFO ] 08-05-2023 14:30:40 [main] Log - Enter an email to Email field
+[INFO ] 08-05-2023 14:30:42 [main] Log - Enter a password to Password field
+[INFO ] 08-05-2023 14:30:44 [main] Log - Click on Login button
+[INFO ] 08-05-2023 14:30:59 [main] Log - [test_o1] [FAILED]
+[INFO ] 08-05-2023 14:31:08 [main] Log - Kết thúc thực hiện chạy test case Mobile_Automation
+[INFO ] 08-05-2023 14:42:29 [main] Log - Bắt đầu thực hiện chạy test case Mobile_Automation
+[INFO ] 08-05-2023 14:42:40 [main] Log - Starting......!
+[INFO ] 08-05-2023 14:42:40 [main] Log - Enter an email to Email field
+[INFO ] 08-05-2023 14:42:42 [main] Log - Enter a password to Password field
+[INFO ] 08-05-2023 14:42:44 [main] Log - Click on Login button
+[INFO ] 08-05-2023 14:42:59 [main] Log - [test_o1] [FAILED]
+[INFO ] 08-05-2023 14:43:08 [main] Log - Kết thúc thực hiện chạy test case Mobile_Automation
+[INFO ] 08-05-2023 15:04:28 [main] Log - Bắt đầu thực hiện chạy test case Mobile_Automation
+[INFO ] 08-05-2023 15:04:38 [main] Log - Starting......!
+[INFO ] 08-05-2023 15:04:39 [main] Log - Enter an email to Email field
+[INFO ] 08-05-2023 15:04:41 [main] Log - Enter a password to Password field
+[INFO ] 08-05-2023 15:04:42 [main] Log - Click on Login button
+[INFO ] 08-05-2023 15:04:57 [main] Log - [test_o1] [FAILED]
+[INFO ] 08-05-2023 15:04:57 [main] Log - Kết thúc thực hiện chạy test case Mobile_Automation
+[INFO ] 08-05-2023 15:20:33 [main] Log - Bắt đầu thực hiện chạy test case Mobile_Automation
+[INFO ] 08-05-2023 15:20:44 [main] Log - Starting......!
+[INFO ] 08-05-2023 15:20:44 [main] Log - Enter an email to Email field
+[INFO ] 08-05-2023 15:20:46 [main] Log - Enter a password to Password field
+[INFO ] 08-05-2023 15:20:48 [main] Log - Click on Login button
+[INFO ] 08-05-2023 15:21:03 [main] Log - [test_o1] [FAILED]
+[INFO ] 08-05-2023 15:21:13 [main] Log - Kết thúc thực hiện chạy test case Mobile_Automation
+[INFO ] 08-05-2023 15:23:33 [main] Log - Bắt đầu thực hiện chạy test case Mobile_Automation
+[INFO ] 08-05-2023 15:23:44 [main] Log - Starting......!
+[INFO ] 08-05-2023 15:23:44 [main] Log - Enter an email to Email field
+[INFO ] 08-05-2023 15:23:46 [main] Log - Enter a password to Password field
+[INFO ] 08-05-2023 15:23:47 [main] Log - Click on Login button
+[INFO ] 08-05-2023 15:24:02 [main] Log - [test_o1] [FAILED]
+[INFO ] 08-05-2023 15:24:13 [main] Log - Kết thúc thực hiện chạy test case Mobile_Automation
+[INFO ] 08-05-2023 15:29:06 [main] Log - Bắt đầu thực hiện chạy test case Mobile_Automation
+[INFO ] 08-05-2023 15:29:17 [main] Log - Starting......!
+[INFO ] 08-05-2023 15:29:17 [main] Log - Enter an email to Email field
+[INFO ] 08-05-2023 15:29:19 [main] Log - Enter a password to Password field
+[INFO ] 08-05-2023 15:29:20 [main] Log - Click on Login button
+[INFO ] 08-05-2023 15:29:35 [main] Log - [test_o1] [FAILED]
+[INFO ] 08-05-2023 15:29:44 [main] Log - Kết thúc thực hiện chạy test case Mobile_Automation
+[INFO ] 08-05-2023 15:30:48 [main] Log - Bắt đầu thực hiện chạy test case Mobile_Automation
+[INFO ] 08-05-2023 15:30:58 [main] Log - Starting......!
+[INFO ] 08-05-2023 15:30:58 [main] Log - Enter an email to Email field
+[INFO ] 08-05-2023 15:31:00 [main] Log - Enter a password to Password field
+[INFO ] 08-05-2023 15:31:02 [main] Log - Click on Login button
+[INFO ] 08-05-2023 15:31:17 [main] Log - [test_o1] [FAILED]
+[INFO ] 08-05-2023 15:31:27 [main] Log - Kết thúc thực hiện chạy test case Mobile_Automation
+[INFO ] 08-05-2023 15:39:06 [main] Log - Bắt đầu thực hiện chạy test case Testing on Login Page
+[INFO ] 08-05-2023 15:39:16 [main] Log - Starting......!
+[INFO ] 08-05-2023 15:39:16 [main] Log - Enter an email to Email field
+[INFO ] 08-05-2023 15:39:19 [main] Log - Enter a password to Password field
+[INFO ] 08-05-2023 15:39:21 [main] Log - Click on Login button
+[INFO ] 08-05-2023 15:39:36 [main] Log - [test_o1] [FAILED]
+[INFO ] 08-05-2023 15:42:25 [main] Log - Kết thúc thực hiện chạy test case Testing on Login Page
+[INFO ] 08-05-2023 15:51:12 [main] Log - Bắt đầu thực hiện chạy test case Mobile_Automation
+[INFO ] 08-05-2023 15:51:22 [main] Log - Starting......!
+[INFO ] 08-05-2023 15:51:23 [main] Log - Enter an email to Email field
+[INFO ] 08-05-2023 15:51:25 [main] Log - Enter a password to Password field
+[INFO ] 08-05-2023 15:51:26 [main] Log - Click on Login button
+[INFO ] 08-05-2023 15:51:41 [main] Log - [test_o1] [FAILED]
+[INFO ] 08-05-2023 15:51:51 [main] Log - Kết thúc thực hiện chạy test case Mobile_Automation
+[INFO ] 08-05-2023 15:53:47 [main] Log - Bắt đầu thực hiện chạy test case Mobile_Automation
+[INFO ] 08-05-2023 15:53:58 [main] Log - Starting......!
+[INFO ] 08-05-2023 15:53:58 [main] Log - Enter an email to Email field
+[INFO ] 08-05-2023 15:54:00 [main] Log - Enter a password to Password field
+[INFO ] 08-05-2023 15:54:02 [main] Log - Click on Login button
+[INFO ] 08-05-2023 15:54:17 [main] Log - [test_o1] [FAILED]
+[INFO ] 08-05-2023 15:54:27 [main] Log - Kết thúc thực hiện chạy test case Mobile_Automation
+[INFO ] 08-05-2023 15:56:16 [main] Log - Bắt đầu thực hiện chạy test case Testing on Login Page
+[INFO ] 08-05-2023 15:56:27 [main] Log - Starting......!
+[INFO ] 08-05-2023 15:56:27 [main] Log - Enter an email to Email field
+[INFO ] 08-05-2023 15:56:30 [main] Log - Enter a password to Password field
+[INFO ] 08-05-2023 15:56:31 [main] Log - Click on Login button
+[INFO ] 08-05-2023 15:56:46 [main] Log - [test_o1] [FAILED]
+[INFO ] 08-05-2023 15:56:58 [main] Log - Kết thúc thực hiện chạy test case Testing on Login Page
+[INFO ] 08-05-2023 16:01:27 [main] Log - Bắt đầu thực hiện chạy test case Mobile_Automation
+[INFO ] 08-05-2023 16:01:38 [main] Log - Starting......!
+[INFO ] 08-05-2023 16:01:38 [main] Log - Enter an email to Email field
+[INFO ] 08-05-2023 16:01:40 [main] Log - Enter a password to Password field
+[INFO ] 08-05-2023 16:01:41 [main] Log - Click on Login button
+[INFO ] 08-05-2023 16:01:56 [main] Log - [test_o1] [FAILED]
+[INFO ] 08-05-2023 16:01:56 [main] Log - [test_o1] [FAILED]
+[INFO ] 08-05-2023 16:01:56 [main] Log - Kết thúc thực hiện chạy test case Mobile_Automation
+[INFO ] 08-05-2023 16:03:45 [main] Log - Bắt đầu thực hiện chạy test case Mobile_Automation
+[INFO ] 08-05-2023 16:03:57 [main] Log - Starting......!
+[INFO ] 08-05-2023 16:03:57 [main] Log - Enter an email to Email field
+[INFO ] 08-05-2023 16:03:59 [main] Log - Enter a password to Password field
+[INFO ] 08-05-2023 16:04:01 [main] Log - Click on Login button
+[INFO ] 08-05-2023 16:04:16 [main] Log - [test_o1] [FAILED]
+[INFO ] 08-05-2023 16:04:17 [main] Log - Kết thúc thực hiện chạy test case Mobile_Automation
+[INFO ] 08-05-2023 16:08:44 [main] Log - Bắt đầu thực hiện chạy test case Mobile_Automation
+[INFO ] 08-05-2023 16:08:55 [main] Log - Starting......!
+[INFO ] 08-05-2023 16:08:55 [main] Log - Enter an email to Email field
+[INFO ] 08-05-2023 16:08:57 [main] Log - Enter a password to Password field
+[INFO ] 08-05-2023 16:08:58 [main] Log - Click on Login button
+[INFO ] 08-05-2023 16:09:14 [main] Log - [test_01] [FAILED]
+[INFO ] 08-05-2023 16:09:15 [main] Log - Kết thúc thực hiện chạy test case Mobile_Automation
+[INFO ] 08-05-2023 16:24:31 [main] Log - Bắt đầu thực hiện chạy test case Mobile_Automation
+[INFO ] 08-05-2023 16:24:42 [main] Log - Starting......!
+[INFO ] 08-05-2023 16:24:42 [main] Log - Enter an email to Email field
+[INFO ] 08-05-2023 16:24:44 [main] Log - Enter a password to Password field
+[INFO ] 08-05-2023 16:24:45 [main] Log - Click on Login button
+[INFO ] 08-05-2023 16:25:00 [main] Log - [test_01] [FAILED]
+[INFO ] 08-05-2023 16:25:02 [main] Log - Kết thúc thực hiện chạy test case Mobile_Automation
+[INFO ] 08-05-2023 16:26:10 [main] Log - Bắt đầu thực hiện chạy test case Mobile_Automation
+[INFO ] 08-05-2023 16:26:21 [main] Log - Starting......!
+[INFO ] 08-05-2023 16:26:21 [main] Log - Enter an email to Email field
+[INFO ] 08-05-2023 16:26:23 [main] Log - Enter a password to Password field
+[INFO ] 08-05-2023 16:26:24 [main] Log - Click on Login button
+[INFO ] 08-05-2023 16:26:25 [main] Log - [test_01] [PASSED]
+[INFO ] 08-05-2023 16:26:26 [main] Log - Kết thúc thực hiện chạy test case Mobile_Automation
+[INFO ] 08-05-2023 16:33:41 [main] Log - Bắt đầu thực hiện chạy test case Mobile_Automation
+[INFO ] 08-05-2023 16:33:52 [main] Log - Starting......!
+[INFO ] 08-05-2023 16:33:52 [main] Log - Enter an email to Email field
+[INFO ] 08-05-2023 16:33:54 [main] Log - Enter a password to Password field
+[INFO ] 08-05-2023 16:33:56 [main] Log - Click on Login button
+[INFO ] 08-05-2023 16:33:57 [main] Log - [test_01] [PASSED]
+[INFO ] 08-05-2023 16:33:58 [main] Log - Kết thúc thực hiện chạy test case Mobile_Automation

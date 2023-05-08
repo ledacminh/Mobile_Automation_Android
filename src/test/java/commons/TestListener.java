@@ -23,13 +23,12 @@ public class TestListener extends BaseTest implements ITestListener {
     @Override
     public void onTestFailedButWithinSuccessPercentage(ITestResult result) {
         // TODO Auto-generated method stub
-
     }
 
     @Override
     public void onTestFailure(ITestResult result) {
         Log.info("[" + result.getName() + "] " + "[FAILED]");
-        takeScreenshots(BaseTest.getAppiumDriver(), result);
+        takeScreenshots(result);
 
     }
 
@@ -50,5 +49,11 @@ public class TestListener extends BaseTest implements ITestListener {
         // TODO Auto-generated method stub
 
     }
+
+    @Override
+    public void onTestFailedWithTimeout(ITestResult result) {
+        Log.info("[" + result.getName() + "] " + "[FAILED_TIMEOUT]");
+    }
+
 
 }
