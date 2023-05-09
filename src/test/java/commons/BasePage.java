@@ -146,12 +146,6 @@ public class BasePage {
         androidDriver.manage().timeouts().implicitlyWait(timeInSecond, TimeUnit.SECONDS);
     }
 
-    public void rightClickOnElement(AndroidDriver<MobileElement> androidDriver, String locator, String... params) {
-        actions = new Actions(androidDriver);
-        waitForElementClickable(androidDriver, locator, params);
-        actions.contextClick(getDynamicElement(androidDriver, locator, params)).perform();
-    }
-
     public void doubleClickOnElement(AndroidDriver<MobileElement> androidDriver, String locator) {
         actions = new Actions(androidDriver);
         waitForElementClickable(androidDriver, locator);
@@ -162,25 +156,6 @@ public class BasePage {
         actions = new Actions(androidDriver);
         waitForElementClickable(androidDriver, locator, params);
         actions.doubleClick(getDynamicElement(androidDriver, locator, params)).perform();
-    }
-
-    public void dragAndDropElement(AndroidDriver<MobileElement> androidDriver, String sourceLocator, String targetLocator) {
-        waitForElementIsVisible(androidDriver, sourceLocator);
-        waitForElementIsVisible(androidDriver, targetLocator);
-        actions = new Actions(androidDriver);
-        actions.dragAndDrop(getElement(androidDriver, sourceLocator), getElement(androidDriver, targetLocator)).perform();
-    }
-
-    public void pressKeyToElement(AndroidDriver<MobileElement> androidDriver, String locator, Keys keys) {
-        waitForElementIsVisible(androidDriver, locator);
-        actions = new Actions(androidDriver);
-        actions.sendKeys(getElement(androidDriver, locator), keys).perform();
-    }
-
-    public void pressKeyToElement(AndroidDriver<MobileElement> androidDriver, String locator, Keys keys, String... params) {
-        waitForElementIsVisible(androidDriver, locator, params);
-        actions = new Actions(androidDriver);
-        actions.sendKeys(getDynamicElement(androidDriver, locator, params), keys).perform();
     }
 
     //Tap by coordinates
