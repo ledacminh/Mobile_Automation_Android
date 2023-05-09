@@ -1,10 +1,23 @@
 <!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
-<suite name="Suite Login" thread-count="1" parallel="tests">
-    
-    <test name="Testing on Login Page">
-        <parameter name="url" value="http://localhost:4445/wd/hub"/>
+<suite name="Suite Login" thread-count="2" parallel="tests">
+
+    <test name="Testing on Login Page Device 1">
+        <parameter name="url" value="http://192.168.1.7:4445/wd/hub"/>
+        <parameter name="udId" value="emulator-5554"/>
+        <parameter name="automationName" value="uiautomator2"/>
         <classes>
             <class name="testcases.Login"/>
+            <class name="testcases.Forms"/>
+        </classes>
+    </test>
+
+    <test name="Testing on Login Page Device 2">
+        <parameter name="url" value="http://192.168.1.7:4446/wd/hub"/>
+        <parameter name="udId" value="emulator-5556"/>
+        <parameter name="automationName" value="uiautomator2"/>
+        <classes>
+            <class name="testcases.Login"/>
+            <class name="testcases.Forms"/>
         </classes>
     </test>
 </suite>

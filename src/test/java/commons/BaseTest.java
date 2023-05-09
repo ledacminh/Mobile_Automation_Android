@@ -44,6 +44,29 @@ public class BaseTest {
         return androidDriver.get();
     }
 
+    public static AndroidDriver<MobileElement> getAppiumDriver(String url, String udId, String automationName) {
+        try {
+            DesiredCapabilities desiredCapabilities = new DesiredCapabilities();
+            desiredCapabilities.setCapability(MobileCapabilityTypeEx.PLATFORM_NAME, "Android");
+            desiredCapabilities.setCapability(MobileCapabilityTypeEx.UDID, udId);
+            desiredCapabilities.setCapability(MobileCapabilityTypeEx.AUTOMATION_NAME, automationName);
+            desiredCapabilities.setCapability(MobileCapabilityTypeEx.APP_PACKAGE, "com.wdiodemoapp");
+            desiredCapabilities.setCapability(MobileCapabilityTypeEx.APP_ACTIVITY, "com.wdiodemoapp.MainActivity");
+            desiredCapabilities.setCapability(MobileCapabilityTypeEx.NEW_COMMAND_TIMEOUT, GlobalConstants.TIME_OUT);
+            desiredCapabilities.setCapability(MobileCapabilityTypeEx.SESSION_OVERRIDE, true);
+
+
+            URL androidServer = new URL(url);
+            androidDriver.set(new AndroidDriver<>(androidServer, desiredCapabilities));
+            androidDriver.get().manage().timeouts().implicitlyWait(GlobalConstants.TIME_OUT, TimeUnit.SECONDS);
+
+        } catch (MalformedURLException e) {
+            throw new RuntimeException(e.getMessage());
+        }
+
+        return androidDriver.get();
+    }
+
     public static AndroidDriver<MobileElement> getAndroidDriver() {
         return androidDriver.get();
     }

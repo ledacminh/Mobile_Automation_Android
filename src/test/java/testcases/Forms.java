@@ -16,10 +16,10 @@ public class Forms extends BaseTest {
     private FormsPage formsPage;
     private AndroidDriver<MobileElement>androidDriver;
 
-    @Parameters("url")
+    @Parameters({"url", "udId", "automationName"})
     @BeforeMethod
-    public void init(String url) {
-        androidDriver = getAppiumDriver(url);
+    public void init(String url, String udId, String automationName) {
+        androidDriver = getAppiumDriver(url, udId, automationName);
         homePage = PageGenerateManager.getHomePage(androidDriver);
         homePage.clickOnFormButton();
         formsPage = PageGenerateManager.getFormsPage(androidDriver);

@@ -239,3 +239,393 @@
 [INFO ] 08-05-2023 20:54:18 [TestNG-tests-1] Log - Click on Login button
 [INFO ] 08-05-2023 20:54:19 [TestNG-tests-1] Log - [test_01] [PASSED]
 [INFO ] 08-05-2023 20:54:20 [TestNG-tests-1] Log - Kết thúc thực hiện chạy test case Testing on Login Page
+[INFO ] 09-05-2023 07:35:42 [TestNG-tests-1] Log - Bắt đầu thực hiện chạy test case Testing on Login Page Device 1
+[INFO ] 09-05-2023 07:35:42 [TestNG-tests-2] Log - Bắt đầu thực hiện chạy test case Testing on Login Page Device 2
+[INFO ] 09-05-2023 07:35:59 [TestNG-tests-2] Log - Kết thúc thực hiện chạy test case Testing on Login Page Device 2
+[INFO ] 09-05-2023 07:36:18 [TestNG-tests-1] Log - Kết thúc thực hiện chạy test case Testing on Login Page Device 1
+[INFO ] 09-05-2023 07:37:19 [TestNG-tests-1] Log - Bắt đầu thực hiện chạy test case Testing on Login Page Device 2
+[INFO ] 09-05-2023 07:37:26 [TestNG-tests-1] Log - Kết thúc thực hiện chạy test case Testing on Login Page Device 2
+[INFO ] 09-05-2023 07:38:25 [TestNG-tests-1] Log - Bắt đầu thực hiện chạy test case Testing on Login Page Device 1
+[INFO ] 09-05-2023 07:38:32 [TestNG-tests-1] Log - Kết thúc thực hiện chạy test case Testing on Login Page Device 1
+[INFO ] 09-05-2023 07:39:07 [TestNG-tests-1] Log - Bắt đầu thực hiện chạy test case Testing on Login Page Device 1
+[INFO ] 09-05-2023 07:39:14 [TestNG-tests-1] Log - Kết thúc thực hiện chạy test case Testing on Login Page Device 1
+[INFO ] 09-05-2023 07:43:32 [TestNG-tests-1] Log - Bắt đầu thực hiện chạy test case Testing on Login Page Device 1
+[INFO ] 09-05-2023 07:43:38 [TestNG-tests-1] Log - Kết thúc thực hiện chạy test case Testing on Login Page Device 1
+[INFO ] 09-05-2023 07:45:32 [TestNG-tests-1] Log - Bắt đầu thực hiện chạy test case Testing on Login Page Device 1
+[INFO ] 09-05-2023 07:45:45 [TestNG-tests-1] Log - Starting......!
+[INFO ] 09-05-2023 07:45:45 [TestNG-tests-1] Log - Enter an email to Email field
+[INFO ] 09-05-2023 07:45:47 [TestNG-tests-1] Log - Enter a password to Password field
+[INFO ] 09-05-2023 07:45:49 [TestNG-tests-1] Log - Click on Login button
+[INFO ] 09-05-2023 07:45:50 [TestNG-tests-1] Log - [test_01] [PASSED]
+[INFO ] 09-05-2023 07:45:50 [TestNG-tests-1] Log - Kết thúc thực hiện chạy test case Testing on Login Page Device 1
+[INFO ] 09-05-2023 07:47:58 [TestNG-tests-1] Log - Bắt đầu thực hiện chạy test case Testing on Login Page Device 2
+[INFO ] 09-05-2023 07:48:43 [TestNG-tests-1] Log - Starting......!
+[INFO ] 09-05-2023 07:48:43 [TestNG-tests-1] Log - Enter an email to Email field
+[INFO ] 09-05-2023 07:48:45 [TestNG-tests-1] Log - Enter a password to Password field
+[INFO ] 09-05-2023 07:48:46 [TestNG-tests-1] Log - Click on Login button
+[INFO ] 09-05-2023 07:48:47 [TestNG-tests-1] Log - [test_01] [PASSED]
+[INFO ] 09-05-2023 07:48:47 [TestNG-tests-1] Log - Kết thúc thực hiện chạy test case Testing on Login Page Device 2
+[INFO ] 09-05-2023 07:49:18 [TestNG-tests-1] Log - Bắt đầu thực hiện chạy test case Testing on Login Page Device 2
+[INFO ] 09-05-2023 07:49:26 [TestNG-tests-1] Log - Starting......!
+[INFO ] 09-05-2023 07:49:26 [TestNG-tests-1] Log - Enter an email to Email field
+[INFO ] 09-05-2023 07:49:28 [TestNG-tests-1] Log - Enter a password to Password field
+[INFO ] 09-05-2023 07:49:30 [TestNG-tests-1] Log - Click on Login button
+[INFO ] 09-05-2023 07:49:31 [TestNG-tests-1] Log - [test_01] [PASSED]
+[INFO ] 09-05-2023 07:49:31 [TestNG-tests-1] Log - Kết thúc thực hiện chạy test case Testing on Login Page Device 2
+[INFO ] 09-05-2023 07:50:45 [main] Log - Bắt đầu thực hiện chạy test case Mobile_Automation
+[INFO ] 09-05-2023 07:50:45 [main] Log - Kết thúc thực hiện chạy test case Mobile_Automation
+[INFO ] 09-05-2023 07:51:43 [TestNG-tests-1] Log - Bắt đầu thực hiện chạy test case Testing on Login Page Device 2
+[INFO ] 09-05-2023 07:51:52 [TestNG-tests-1] Log - Starting......!
+[INFO ] 09-05-2023 07:51:52 [TestNG-tests-1] Log - Enter an email to Email field
+[INFO ] 09-05-2023 07:51:54 [TestNG-tests-1] Log - Enter a password to Password field
+[INFO ] 09-05-2023 07:51:56 [TestNG-tests-1] Log - Click on Login button
+[INFO ] 09-05-2023 07:51:56 [TestNG-tests-1] Log - [test_01] [PASSED]
+[INFO ] 09-05-2023 07:51:57 [TestNG-tests-1] Log - Kết thúc thực hiện chạy test case Testing on Login Page Device 2
+[INFO ] 09-05-2023 07:56:59 [TestNG-tests-1] Log - Bắt đầu thực hiện chạy test case Testing on Login Page Device 2
+[INFO ] 09-05-2023 07:57:17 [TestNG-tests-1] Log - Starting......!
+[INFO ] 09-05-2023 07:57:17 [TestNG-tests-1] Log - Enter an email to Email field
+[INFO ] 09-05-2023 07:57:18 [TestNG-tests-1] Log - Enter a password to Password field
+[INFO ] 09-05-2023 07:57:19 [TestNG-tests-1] Log - Click on Login button
+[INFO ] 09-05-2023 07:57:20 [TestNG-tests-1] Log - [test_01] [PASSED]
+[INFO ] 09-05-2023 07:57:21 [TestNG-tests-1] Log - Kết thúc thực hiện chạy test case Testing on Login Page Device 2
+[INFO ] 09-05-2023 07:57:44 [TestNG-tests-1] Log - Bắt đầu thực hiện chạy test case Testing on Login Page Device 2
+[INFO ] 09-05-2023 07:57:51 [TestNG-tests-1] Log - Starting......!
+[INFO ] 09-05-2023 07:57:52 [TestNG-tests-1] Log - Enter an email to Email field
+[INFO ] 09-05-2023 07:57:54 [TestNG-tests-1] Log - Enter a password to Password field
+[INFO ] 09-05-2023 07:57:55 [TestNG-tests-1] Log - Click on Login button
+[INFO ] 09-05-2023 07:57:56 [TestNG-tests-1] Log - [test_01] [PASSED]
+[INFO ] 09-05-2023 07:57:56 [TestNG-tests-1] Log - Kết thúc thực hiện chạy test case Testing on Login Page Device 2
+[INFO ] 09-05-2023 07:59:07 [TestNG-tests-1] Log - Bắt đầu thực hiện chạy test case Testing on Login Page Device 1
+[INFO ] 09-05-2023 07:59:07 [TestNG-tests-2] Log - Bắt đầu thực hiện chạy test case Testing on Login Page Device 2
+[INFO ] 09-05-2023 07:59:08 [TestNG-tests-1] Log - Kết thúc thực hiện chạy test case Testing on Login Page Device 1
+[INFO ] 09-05-2023 07:59:17 [TestNG-tests-2] Log - Starting......!
+[INFO ] 09-05-2023 07:59:17 [TestNG-tests-2] Log - Enter an email to Email field
+[INFO ] 09-05-2023 07:59:19 [TestNG-tests-2] Log - Enter a password to Password field
+[INFO ] 09-05-2023 07:59:20 [TestNG-tests-2] Log - Click on Login button
+[INFO ] 09-05-2023 07:59:21 [TestNG-tests-2] Log - [test_01] [PASSED]
+[INFO ] 09-05-2023 07:59:22 [TestNG-tests-2] Log - Kết thúc thực hiện chạy test case Testing on Login Page Device 2
+[INFO ] 09-05-2023 07:59:50 [TestNG-tests-2] Log - Bắt đầu thực hiện chạy test case Testing on Login Page Device 2
+[INFO ] 09-05-2023 07:59:50 [TestNG-tests-1] Log - Bắt đầu thực hiện chạy test case Testing on Login Page Device 1
+[INFO ] 09-05-2023 07:59:51 [TestNG-tests-1] Log - Kết thúc thực hiện chạy test case Testing on Login Page Device 1
+[INFO ] 09-05-2023 07:59:59 [TestNG-tests-2] Log - Starting......!
+[INFO ] 09-05-2023 07:59:59 [TestNG-tests-2] Log - Enter an email to Email field
+[INFO ] 09-05-2023 08:00:02 [TestNG-tests-2] Log - Enter a password to Password field
+[INFO ] 09-05-2023 08:00:03 [TestNG-tests-2] Log - Click on Login button
+[INFO ] 09-05-2023 08:00:04 [TestNG-tests-2] Log - [test_01] [PASSED]
+[INFO ] 09-05-2023 08:00:05 [TestNG-tests-2] Log - Kết thúc thực hiện chạy test case Testing on Login Page Device 2
+[INFO ] 09-05-2023 08:02:52 [TestNG-tests-2] Log - Bắt đầu thực hiện chạy test case Testing on Login Page Device 2
+[INFO ] 09-05-2023 08:02:52 [TestNG-tests-1] Log - Bắt đầu thực hiện chạy test case Testing on Login Page Device 1
+[INFO ] 09-05-2023 08:02:53 [TestNG-tests-1] Log - Kết thúc thực hiện chạy test case Testing on Login Page Device 1
+[INFO ] 09-05-2023 08:03:00 [TestNG-tests-2] Log - Starting......!
+[INFO ] 09-05-2023 08:03:00 [TestNG-tests-2] Log - Enter an email to Email field
+[INFO ] 09-05-2023 08:03:02 [TestNG-tests-2] Log - Enter a password to Password field
+[INFO ] 09-05-2023 08:03:03 [TestNG-tests-2] Log - Click on Login button
+[INFO ] 09-05-2023 08:03:04 [TestNG-tests-2] Log - [test_01] [PASSED]
+[INFO ] 09-05-2023 08:03:05 [TestNG-tests-2] Log - Kết thúc thực hiện chạy test case Testing on Login Page Device 2
+[INFO ] 09-05-2023 08:04:27 [TestNG-tests-1] Log - Bắt đầu thực hiện chạy test case Testing on Login Page Device 1
+[INFO ] 09-05-2023 08:04:27 [TestNG-tests-2] Log - Bắt đầu thực hiện chạy test case Testing on Login Page Device 2
+[INFO ] 09-05-2023 08:04:28 [TestNG-tests-1] Log - Kết thúc thực hiện chạy test case Testing on Login Page Device 1
+[INFO ] 09-05-2023 08:04:35 [TestNG-tests-2] Log - Starting......!
+[INFO ] 09-05-2023 08:04:35 [TestNG-tests-2] Log - Enter an email to Email field
+[INFO ] 09-05-2023 08:04:37 [TestNG-tests-2] Log - Enter a password to Password field
+[INFO ] 09-05-2023 08:04:38 [TestNG-tests-2] Log - Click on Login button
+[INFO ] 09-05-2023 08:04:39 [TestNG-tests-2] Log - [test_01] [PASSED]
+[INFO ] 09-05-2023 08:04:40 [TestNG-tests-2] Log - Kết thúc thực hiện chạy test case Testing on Login Page Device 2
+[INFO ] 09-05-2023 08:07:10 [TestNG-tests-1] Log - Bắt đầu thực hiện chạy test case Testing on Login Page Device 1
+[INFO ] 09-05-2023 08:07:10 [TestNG-tests-2] Log - Bắt đầu thực hiện chạy test case Testing on Login Page Device 2
+[INFO ] 09-05-2023 08:07:10 [TestNG-tests-1] Log - Kết thúc thực hiện chạy test case Testing on Login Page Device 1
+[INFO ] 09-05-2023 08:07:56 [TestNG-tests-2] Log - Kết thúc thực hiện chạy test case Testing on Login Page Device 2
+[INFO ] 09-05-2023 08:08:14 [TestNG-tests-1] Log - Bắt đầu thực hiện chạy test case Testing on Login Page Device 1
+[INFO ] 09-05-2023 08:08:14 [TestNG-tests-2] Log - Bắt đầu thực hiện chạy test case Testing on Login Page Device 2
+[INFO ] 09-05-2023 08:08:14 [TestNG-tests-1] Log - Kết thúc thực hiện chạy test case Testing on Login Page Device 1
+[INFO ] 09-05-2023 08:08:14 [TestNG-tests-2] Log - Kết thúc thực hiện chạy test case Testing on Login Page Device 2
+[INFO ] 09-05-2023 08:10:23 [TestNG-tests-1] Log - Bắt đầu thực hiện chạy test case Testing on Login Page Device 1
+[INFO ] 09-05-2023 08:10:31 [TestNG-tests-1] Log - Starting......!
+[INFO ] 09-05-2023 08:10:32 [TestNG-tests-1] Log - Enter an email to Email field
+[INFO ] 09-05-2023 08:10:33 [TestNG-tests-1] Log - Enter a password to Password field
+[INFO ] 09-05-2023 08:10:35 [TestNG-tests-1] Log - Click on Login button
+[INFO ] 09-05-2023 08:10:36 [TestNG-tests-1] Log - [test_01] [PASSED]
+[INFO ] 09-05-2023 08:10:36 [TestNG-tests-1] Log - Kết thúc thực hiện chạy test case Testing on Login Page Device 1
+[INFO ] 09-05-2023 08:11:37 [TestNG-tests-1] Log - Bắt đầu thực hiện chạy test case Testing on Login Page Device 2
+[INFO ] 09-05-2023 08:11:38 [TestNG-tests-1] Log - Kết thúc thực hiện chạy test case Testing on Login Page Device 2
+[INFO ] 09-05-2023 08:12:47 [TestNG-tests-1] Log - Bắt đầu thực hiện chạy test case Testing on Login Page Device 2
+[INFO ] 09-05-2023 08:12:48 [TestNG-tests-1] Log - Kết thúc thực hiện chạy test case Testing on Login Page Device 2
+[INFO ] 09-05-2023 08:14:10 [TestNG-tests-1] Log - Bắt đầu thực hiện chạy test case Testing on Login Page Device 2
+[INFO ] 09-05-2023 08:14:10 [TestNG-tests-1] Log - Kết thúc thực hiện chạy test case Testing on Login Page Device 2
+[INFO ] 09-05-2023 08:21:35 [TestNG-tests-1] Log - Bắt đầu thực hiện chạy test case Testing on Login Page Device 2
+[INFO ] 09-05-2023 08:21:36 [TestNG-tests-1] Log - Kết thúc thực hiện chạy test case Testing on Login Page Device 2
+[INFO ] 09-05-2023 08:21:56 [TestNG-tests-1] Log - Bắt đầu thực hiện chạy test case Testing on Login Page Device 1
+[INFO ] 09-05-2023 08:22:05 [TestNG-tests-1] Log - Starting......!
+[INFO ] 09-05-2023 08:22:05 [TestNG-tests-1] Log - Enter an email to Email field
+[INFO ] 09-05-2023 08:22:07 [TestNG-tests-1] Log - Enter a password to Password field
+[INFO ] 09-05-2023 08:22:09 [TestNG-tests-1] Log - Click on Login button
+[INFO ] 09-05-2023 08:22:10 [TestNG-tests-1] Log - [test_01] [PASSED]
+[INFO ] 09-05-2023 08:22:10 [TestNG-tests-1] Log - Kết thúc thực hiện chạy test case Testing on Login Page Device 1
+[INFO ] 09-05-2023 08:38:02 [TestNG-tests-1] Log - Bắt đầu thực hiện chạy test case Testing on Login Page Device 2
+[INFO ] 09-05-2023 08:38:03 [TestNG-tests-1] Log - Kết thúc thực hiện chạy test case Testing on Login Page Device 2
+[INFO ] 09-05-2023 08:39:17 [TestNG-tests-1] Log - Bắt đầu thực hiện chạy test case Testing on Login Page Device 2
+[INFO ] 09-05-2023 08:39:17 [TestNG-tests-1] Log - Kết thúc thực hiện chạy test case Testing on Login Page Device 2
+[INFO ] 09-05-2023 08:41:55 [TestNG-tests-1] Log - Bắt đầu thực hiện chạy test case Testing on Login Page Device 2
+[INFO ] 09-05-2023 08:41:55 [TestNG-tests-1] Log - Kết thúc thực hiện chạy test case Testing on Login Page Device 2
+[INFO ] 09-05-2023 08:42:34 [TestNG-tests-1] Log - Bắt đầu thực hiện chạy test case Testing on Login Page Device 1
+[INFO ] 09-05-2023 08:42:54 [TestNG-tests-1] Log - Starting......!
+[INFO ] 09-05-2023 08:42:54 [TestNG-tests-1] Log - Enter an email to Email field
+[INFO ] 09-05-2023 08:42:56 [TestNG-tests-1] Log - Enter a password to Password field
+[INFO ] 09-05-2023 08:42:58 [TestNG-tests-1] Log - Click on Login button
+[INFO ] 09-05-2023 08:42:59 [TestNG-tests-1] Log - [test_01] [PASSED]
+[INFO ] 09-05-2023 08:43:00 [TestNG-tests-1] Log - Kết thúc thực hiện chạy test case Testing on Login Page Device 1
+[INFO ] 09-05-2023 08:48:47 [TestNG-tests-1] Log - Bắt đầu thực hiện chạy test case Testing on Login Page Device 1
+[INFO ] 09-05-2023 08:48:58 [TestNG-tests-1] Log - Starting......!
+[INFO ] 09-05-2023 08:48:58 [TestNG-tests-1] Log - Enter an email to Email field
+[INFO ] 09-05-2023 08:49:00 [TestNG-tests-1] Log - Enter a password to Password field
+[INFO ] 09-05-2023 08:49:02 [TestNG-tests-1] Log - Click on Login button
+[INFO ] 09-05-2023 08:49:03 [TestNG-tests-1] Log - [test_01] [PASSED]
+[INFO ] 09-05-2023 08:49:03 [TestNG-tests-1] Log - Kết thúc thực hiện chạy test case Testing on Login Page Device 1
+[INFO ] 09-05-2023 08:49:30 [TestNG-tests-1] Log - Bắt đầu thực hiện chạy test case Testing on Login Page Device 2
+[INFO ] 09-05-2023 08:49:30 [TestNG-tests-1] Log - Kết thúc thực hiện chạy test case Testing on Login Page Device 2
+[INFO ] 09-05-2023 08:59:27 [TestNG-tests-1] Log - Bắt đầu thực hiện chạy test case Testing on Login Page Device 2
+[INFO ] 09-05-2023 08:59:27 [TestNG-tests-1] Log - Kết thúc thực hiện chạy test case Testing on Login Page Device 2
+[INFO ] 09-05-2023 09:07:06 [TestNG-tests-1] Log - Bắt đầu thực hiện chạy test case Testing on Login Page Device 2
+[INFO ] 09-05-2023 09:07:07 [TestNG-tests-1] Log - Kết thúc thực hiện chạy test case Testing on Login Page Device 2
+[INFO ] 09-05-2023 09:09:19 [TestNG-tests-1] Log - Bắt đầu thực hiện chạy test case Testing on Login Page Device 2
+[INFO ] 09-05-2023 09:09:31 [TestNG-tests-1] Log - Starting......!
+[INFO ] 09-05-2023 09:09:31 [TestNG-tests-1] Log - Enter an email to Email field
+[INFO ] 09-05-2023 09:09:33 [TestNG-tests-1] Log - Enter a password to Password field
+[INFO ] 09-05-2023 09:09:34 [TestNG-tests-1] Log - Click on Login button
+[INFO ] 09-05-2023 09:09:35 [TestNG-tests-1] Log - [test_01] [PASSED]
+[INFO ] 09-05-2023 09:09:36 [TestNG-tests-1] Log - Kết thúc thực hiện chạy test case Testing on Login Page Device 2
+[INFO ] 09-05-2023 09:10:55 [TestNG-tests-1] Log - Bắt đầu thực hiện chạy test case Testing on Login Page Device 1
+[INFO ] 09-05-2023 09:11:17 [TestNG-tests-1] Log - Starting......!
+[INFO ] 09-05-2023 09:11:18 [TestNG-tests-1] Log - Enter an email to Email field
+[INFO ] 09-05-2023 09:11:19 [TestNG-tests-1] Log - Enter a password to Password field
+[INFO ] 09-05-2023 09:11:21 [TestNG-tests-1] Log - Click on Login button
+[INFO ] 09-05-2023 09:11:22 [TestNG-tests-1] Log - [test_01] [PASSED]
+[INFO ] 09-05-2023 09:11:23 [TestNG-tests-1] Log - Kết thúc thực hiện chạy test case Testing on Login Page Device 1
+[INFO ] 09-05-2023 09:11:36 [TestNG-tests-1] Log - Bắt đầu thực hiện chạy test case Testing on Login Page Device 1
+[INFO ] 09-05-2023 09:11:36 [TestNG-tests-2] Log - Bắt đầu thực hiện chạy test case Testing on Login Page Device 2
+[INFO ] 09-05-2023 09:11:47 [TestNG-tests-2] Log - Starting......!
+[INFO ] 09-05-2023 09:11:47 [TestNG-tests-2] Log - Enter an email to Email field
+[INFO ] 09-05-2023 09:11:48 [TestNG-tests-1] Log - Starting......!
+[INFO ] 09-05-2023 09:11:48 [TestNG-tests-1] Log - Enter an email to Email field
+[INFO ] 09-05-2023 09:11:49 [TestNG-tests-2] Log - Enter a password to Password field
+[INFO ] 09-05-2023 09:11:50 [TestNG-tests-1] Log - Enter a password to Password field
+[INFO ] 09-05-2023 09:11:51 [TestNG-tests-2] Log - Click on Login button
+[INFO ] 09-05-2023 09:11:51 [TestNG-tests-1] Log - Click on Login button
+[INFO ] 09-05-2023 09:11:52 [TestNG-tests-2] Log - [test_01] [PASSED]
+[INFO ] 09-05-2023 09:11:52 [TestNG-tests-1] Log - [test_01] [PASSED]
+[INFO ] 09-05-2023 09:11:53 [TestNG-tests-2] Log - Kết thúc thực hiện chạy test case Testing on Login Page Device 2
+[INFO ] 09-05-2023 09:11:53 [TestNG-tests-1] Log - Kết thúc thực hiện chạy test case Testing on Login Page Device 1
+[INFO ] 09-05-2023 09:14:13 [TestNG-tests-2] Log - Bắt đầu thực hiện chạy test case Testing on Login Page Device 2
+[INFO ] 09-05-2023 09:14:13 [TestNG-tests-1] Log - Bắt đầu thực hiện chạy test case Testing on Login Page Device 1
+[INFO ] 09-05-2023 09:14:25 [TestNG-tests-2] Log - Starting......!
+[INFO ] 09-05-2023 09:14:25 [TestNG-tests-1] Log - Starting......!
+[INFO ] 09-05-2023 09:14:26 [TestNG-tests-2] Log - Enter an email to Email field
+[INFO ] 09-05-2023 09:14:26 [TestNG-tests-1] Log - Enter an email to Email field
+[INFO ] 09-05-2023 09:14:28 [TestNG-tests-1] Log - Enter a password to Password field
+[INFO ] 09-05-2023 09:14:28 [TestNG-tests-2] Log - Enter a password to Password field
+[INFO ] 09-05-2023 09:14:29 [TestNG-tests-1] Log - Click on Login button
+[INFO ] 09-05-2023 09:14:30 [TestNG-tests-2] Log - Click on Login button
+[INFO ] 09-05-2023 09:14:31 [TestNG-tests-1] Log - [test_01] [PASSED]
+[INFO ] 09-05-2023 09:14:31 [TestNG-tests-1] Log - Kết thúc thực hiện chạy test case Testing on Login Page Device 1
+[INFO ] 09-05-2023 09:14:32 [TestNG-tests-2] Log - [test_01] [PASSED]
+[INFO ] 09-05-2023 09:14:33 [TestNG-tests-2] Log - Kết thúc thực hiện chạy test case Testing on Login Page Device 2
+[INFO ] 09-05-2023 09:18:35 [TestNG-tests-1] Log - Bắt đầu thực hiện chạy test case Testing on Login Page Device 1
+[INFO ] 09-05-2023 09:18:35 [TestNG-tests-2] Log - Bắt đầu thực hiện chạy test case Testing on Login Page Device 2
+[INFO ] 09-05-2023 09:18:47 [TestNG-tests-1] Log - Starting......!
+[INFO ] 09-05-2023 09:18:47 [TestNG-tests-1] Log - Enter an email to Email field
+[INFO ] 09-05-2023 09:18:48 [TestNG-tests-2] Log - Starting......!
+[INFO ] 09-05-2023 09:18:48 [TestNG-tests-2] Log - Enter an email to Email field
+[INFO ] 09-05-2023 09:18:49 [TestNG-tests-1] Log - Enter a password to Password field
+[INFO ] 09-05-2023 09:18:50 [TestNG-tests-2] Log - Enter a password to Password field
+[INFO ] 09-05-2023 09:18:50 [TestNG-tests-1] Log - Click on Login button
+[INFO ] 09-05-2023 09:18:52 [TestNG-tests-1] Log - [test_01] [PASSED]
+[INFO ] 09-05-2023 09:18:52 [TestNG-tests-2] Log - Click on Login button
+[INFO ] 09-05-2023 09:18:52 [TestNG-tests-1] Log - Kết thúc thực hiện chạy test case Testing on Login Page Device 1
+[INFO ] 09-05-2023 09:18:53 [TestNG-tests-2] Log - [test_01] [PASSED]
+[INFO ] 09-05-2023 09:18:53 [TestNG-tests-2] Log - Kết thúc thực hiện chạy test case Testing on Login Page Device 2
+[INFO ] 09-05-2023 09:19:05 [TestNG-tests-1] Log - Bắt đầu thực hiện chạy test case Testing on Login Page Device 1
+[INFO ] 09-05-2023 09:19:05 [TestNG-tests-2] Log - Bắt đầu thực hiện chạy test case Testing on Login Page Device 2
+[INFO ] 09-05-2023 09:19:18 [TestNG-tests-1] Log - Starting......!
+[INFO ] 09-05-2023 09:19:18 [TestNG-tests-2] Log - Starting......!
+[INFO ] 09-05-2023 09:19:18 [TestNG-tests-2] Log - Enter an email to Email field
+[INFO ] 09-05-2023 09:19:18 [TestNG-tests-1] Log - Enter an email to Email field
+[INFO ] 09-05-2023 09:19:20 [TestNG-tests-1] Log - Enter a password to Password field
+[INFO ] 09-05-2023 09:19:20 [TestNG-tests-2] Log - Enter a password to Password field
+[INFO ] 09-05-2023 09:19:22 [TestNG-tests-1] Log - Click on Login button
+[INFO ] 09-05-2023 09:19:23 [TestNG-tests-2] Log - Click on Login button
+[INFO ] 09-05-2023 09:19:23 [TestNG-tests-1] Log - [test_01] [PASSED]
+[INFO ] 09-05-2023 09:19:24 [TestNG-tests-2] Log - [test_01] [PASSED]
+[INFO ] 09-05-2023 09:19:24 [TestNG-tests-1] Log - Kết thúc thực hiện chạy test case Testing on Login Page Device 1
+[INFO ] 09-05-2023 09:19:25 [TestNG-tests-2] Log - Kết thúc thực hiện chạy test case Testing on Login Page Device 2
+[INFO ] 09-05-2023 09:24:52 [TestNG-tests-2] Log - Bắt đầu thực hiện chạy test case Testing on Login Page Device 2
+[INFO ] 09-05-2023 09:24:52 [TestNG-tests-1] Log - Bắt đầu thực hiện chạy test case Testing on Login Page Device 1
+[INFO ] 09-05-2023 09:25:03 [TestNG-tests-2] Log - Starting......!
+[INFO ] 09-05-2023 09:25:03 [TestNG-tests-2] Log - Enter an email to Email field
+[INFO ] 09-05-2023 09:25:03 [TestNG-tests-1] Log - Starting......!
+[INFO ] 09-05-2023 09:25:03 [TestNG-tests-1] Log - Enter an email to Email field
+[INFO ] 09-05-2023 09:25:05 [TestNG-tests-2] Log - Enter a password to Password field
+[INFO ] 09-05-2023 09:25:06 [TestNG-tests-1] Log - Enter a password to Password field
+[INFO ] 09-05-2023 09:25:07 [TestNG-tests-2] Log - Click on Login button
+[INFO ] 09-05-2023 09:25:07 [TestNG-tests-1] Log - Click on Login button
+[INFO ] 09-05-2023 09:25:08 [TestNG-tests-2] Log - [test_01] [PASSED]
+[INFO ] 09-05-2023 09:25:09 [TestNG-tests-1] Log - [test_01] [PASSED]
+[INFO ] 09-05-2023 09:25:18 [TestNG-tests-1] Log - Kết thúc thực hiện chạy test case Testing on Login Page Device 1
+[INFO ] 09-05-2023 09:25:19 [TestNG-tests-2] Log - Kết thúc thực hiện chạy test case Testing on Login Page Device 2
+[INFO ] 09-05-2023 09:25:46 [TestNG-tests-1] Log - Bắt đầu thực hiện chạy test case Testing on Login Page Device 1
+[INFO ] 09-05-2023 09:25:46 [TestNG-tests-2] Log - Bắt đầu thực hiện chạy test case Testing on Login Page Device 2
+[INFO ] 09-05-2023 09:25:56 [TestNG-tests-1] Log - Kết thúc thực hiện chạy test case Testing on Login Page Device 1
+[INFO ] 09-05-2023 09:25:57 [TestNG-tests-2] Log - Starting......!
+[INFO ] 09-05-2023 09:25:57 [TestNG-tests-2] Log - Enter an email to Email field
+[INFO ] 09-05-2023 09:25:59 [TestNG-tests-2] Log - Enter a password to Password field
+[INFO ] 09-05-2023 09:26:01 [TestNG-tests-2] Log - Click on Login button
+[INFO ] 09-05-2023 09:26:02 [TestNG-tests-2] Log - [test_01] [PASSED]
+[INFO ] 09-05-2023 09:26:07 [TestNG-tests-2] Log - Kết thúc thực hiện chạy test case Testing on Login Page Device 2
+[INFO ] 09-05-2023 09:26:20 [TestNG-tests-2] Log - Bắt đầu thực hiện chạy test case Testing on Login Page Device 2
+[INFO ] 09-05-2023 09:26:20 [TestNG-tests-1] Log - Bắt đầu thực hiện chạy test case Testing on Login Page Device 1
+[INFO ] 09-05-2023 09:26:31 [TestNG-tests-1] Log - Kết thúc thực hiện chạy test case Testing on Login Page Device 1
+[INFO ] 09-05-2023 09:26:31 [TestNG-tests-2] Log - Starting......!
+[INFO ] 09-05-2023 09:26:31 [TestNG-tests-2] Log - Enter an email to Email field
+[INFO ] 09-05-2023 09:26:33 [TestNG-tests-2] Log - Enter a password to Password field
+[INFO ] 09-05-2023 09:26:34 [TestNG-tests-2] Log - Click on Login button
+[INFO ] 09-05-2023 09:26:35 [TestNG-tests-2] Log - [test_01] [PASSED]
+[INFO ] 09-05-2023 09:26:40 [TestNG-tests-2] Log - Kết thúc thực hiện chạy test case Testing on Login Page Device 2
+[INFO ] 09-05-2023 09:26:51 [TestNG-tests-1] Log - Bắt đầu thực hiện chạy test case Testing on Login Page Device 1
+[INFO ] 09-05-2023 09:27:00 [TestNG-tests-1] Log - Kết thúc thực hiện chạy test case Testing on Login Page Device 1
+[INFO ] 09-05-2023 09:27:33 [TestNG-tests-1] Log - Bắt đầu thực hiện chạy test case Testing on Login Page Device 2
+[INFO ] 09-05-2023 09:27:41 [TestNG-tests-1] Log - Starting......!
+[INFO ] 09-05-2023 09:27:41 [TestNG-tests-1] Log - Enter an email to Email field
+[INFO ] 09-05-2023 09:27:43 [TestNG-tests-1] Log - Enter a password to Password field
+[INFO ] 09-05-2023 09:27:44 [TestNG-tests-1] Log - Click on Login button
+[INFO ] 09-05-2023 09:27:45 [TestNG-tests-1] Log - [test_01] [PASSED]
+[INFO ] 09-05-2023 09:27:50 [TestNG-tests-1] Log - Kết thúc thực hiện chạy test case Testing on Login Page Device 2
+[INFO ] 09-05-2023 09:29:26 [TestNG-tests-1] Log - Bắt đầu thực hiện chạy test case Testing on Login Page Device 2
+[INFO ] 09-05-2023 09:29:35 [TestNG-tests-1] Log - Starting......!
+[INFO ] 09-05-2023 09:29:35 [TestNG-tests-1] Log - Enter an email to Email field
+[INFO ] 09-05-2023 09:29:37 [TestNG-tests-1] Log - Enter a password to Password field
+[INFO ] 09-05-2023 09:29:38 [TestNG-tests-1] Log - Click on Login button
+[INFO ] 09-05-2023 09:29:39 [TestNG-tests-1] Log - [test_01] [PASSED]
+[INFO ] 09-05-2023 09:29:47 [TestNG-tests-1] Log - Starting......!
+[INFO ] 09-05-2023 09:29:50 [TestNG-tests-1] Log - [test_01] [PASSED]
+[INFO ] 09-05-2023 09:30:00 [TestNG-tests-1] Log - Starting......!
+[INFO ] 09-05-2023 09:30:02 [TestNG-tests-1] Log - [test_02] [PASSED]
+[INFO ] 09-05-2023 09:30:02 [TestNG-tests-1] Log - Kết thúc thực hiện chạy test case Testing on Login Page Device 2
+[INFO ] 09-05-2023 09:30:18 [TestNG-tests-1] Log - Bắt đầu thực hiện chạy test case Testing on Login Page Device 1
+[INFO ] 09-05-2023 09:30:18 [TestNG-tests-2] Log - Bắt đầu thực hiện chạy test case Testing on Login Page Device 2
+[INFO ] 09-05-2023 09:30:30 [TestNG-tests-2] Log - Starting......!
+[INFO ] 09-05-2023 09:30:30 [TestNG-tests-2] Log - Enter an email to Email field
+[INFO ] 09-05-2023 09:30:32 [TestNG-tests-2] Log - Enter a password to Password field
+[INFO ] 09-05-2023 09:30:32 [TestNG-tests-1] Log - Kết thúc thực hiện chạy test case Testing on Login Page Device 1
+[INFO ] 09-05-2023 09:30:33 [TestNG-tests-2] Log - Click on Login button
+[INFO ] 09-05-2023 09:30:34 [TestNG-tests-2] Log - [test_01] [PASSED]
+[INFO ] 09-05-2023 09:30:43 [TestNG-tests-2] Log - Starting......!
+[INFO ] 09-05-2023 09:30:45 [TestNG-tests-2] Log - [test_01] [PASSED]
+[INFO ] 09-05-2023 09:30:55 [TestNG-tests-2] Log - Starting......!
+[INFO ] 09-05-2023 09:30:57 [TestNG-tests-2] Log - [test_02] [PASSED]
+[INFO ] 09-05-2023 09:30:57 [TestNG-tests-2] Log - Kết thúc thực hiện chạy test case Testing on Login Page Device 2
+[INFO ] 09-05-2023 09:33:31 [TestNG-tests-1] Log - Bắt đầu thực hiện chạy test case Testing on Login Page Device 1
+[INFO ] 09-05-2023 09:33:31 [TestNG-tests-2] Log - Bắt đầu thực hiện chạy test case Testing on Login Page Device 2
+[INFO ] 09-05-2023 09:33:44 [TestNG-tests-2] Log - Starting......!
+[INFO ] 09-05-2023 09:33:44 [TestNG-tests-2] Log - Enter an email to Email field
+[INFO ] 09-05-2023 09:33:46 [TestNG-tests-1] Log - Kết thúc thực hiện chạy test case Testing on Login Page Device 1
+[INFO ] 09-05-2023 09:33:47 [TestNG-tests-2] Log - Enter a password to Password field
+[INFO ] 09-05-2023 09:33:48 [TestNG-tests-2] Log - Click on Login button
+[INFO ] 09-05-2023 09:33:50 [TestNG-tests-2] Log - [test_01] [PASSED]
+[INFO ] 09-05-2023 09:33:58 [TestNG-tests-2] Log - Starting......!
+[INFO ] 09-05-2023 09:34:01 [TestNG-tests-2] Log - [test_01] [PASSED]
+[INFO ] 09-05-2023 09:34:10 [TestNG-tests-2] Log - Starting......!
+[INFO ] 09-05-2023 09:34:12 [TestNG-tests-2] Log - [test_02] [PASSED]
+[INFO ] 09-05-2023 09:34:12 [TestNG-tests-2] Log - Kết thúc thực hiện chạy test case Testing on Login Page Device 2
+[INFO ] 09-05-2023 09:35:03 [TestNG-tests-2] Log - Bắt đầu thực hiện chạy test case Testing on Login Page Device 2
+[INFO ] 09-05-2023 09:35:03 [TestNG-tests-1] Log - Bắt đầu thực hiện chạy test case Testing on Login Page Device 1
+[INFO ] 09-05-2023 09:35:18 [TestNG-tests-1] Log - Kết thúc thực hiện chạy test case Testing on Login Page Device 1
+[INFO ] 09-05-2023 09:35:19 [TestNG-tests-2] Log - Starting......!
+[INFO ] 09-05-2023 09:35:19 [TestNG-tests-2] Log - Enter an email to Email field
+[INFO ] 09-05-2023 09:35:21 [TestNG-tests-2] Log - Enter a password to Password field
+[INFO ] 09-05-2023 09:35:23 [TestNG-tests-2] Log - Click on Login button
+[INFO ] 09-05-2023 09:35:24 [TestNG-tests-2] Log - [test_01] [PASSED]
+[INFO ] 09-05-2023 09:35:32 [TestNG-tests-2] Log - Starting......!
+[INFO ] 09-05-2023 09:35:35 [TestNG-tests-2] Log - [test_01] [PASSED]
+[INFO ] 09-05-2023 09:35:44 [TestNG-tests-2] Log - Starting......!
+[INFO ] 09-05-2023 09:35:47 [TestNG-tests-2] Log - [test_02] [PASSED]
+[INFO ] 09-05-2023 09:35:47 [TestNG-tests-2] Log - Kết thúc thực hiện chạy test case Testing on Login Page Device 2
+[INFO ] 09-05-2023 09:36:24 [TestNG-tests-1] Log - Bắt đầu thực hiện chạy test case Testing on Login Page Device 1
+[INFO ] 09-05-2023 09:36:32 [TestNG-tests-1] Log - Kết thúc thực hiện chạy test case Testing on Login Page Device 1
+[INFO ] 09-05-2023 09:37:18 [TestNG-tests-1] Log - Bắt đầu thực hiện chạy test case Testing on Login Page Device 1
+[INFO ] 09-05-2023 09:37:27 [TestNG-tests-1] Log - Kết thúc thực hiện chạy test case Testing on Login Page Device 1
+[INFO ] 09-05-2023 09:38:04 [TestNG-tests-1] Log - Bắt đầu thực hiện chạy test case Testing on Login Page Device 1
+[INFO ] 09-05-2023 09:38:16 [TestNG-tests-1] Log - Starting......!
+[INFO ] 09-05-2023 09:38:16 [TestNG-tests-1] Log - Enter an email to Email field
+[INFO ] 09-05-2023 09:38:18 [TestNG-tests-1] Log - Enter a password to Password field
+[INFO ] 09-05-2023 09:38:20 [TestNG-tests-1] Log - Click on Login button
+[INFO ] 09-05-2023 09:38:21 [TestNG-tests-1] Log - [test_01] [PASSED]
+[INFO ] 09-05-2023 09:38:30 [TestNG-tests-1] Log - Starting......!
+[INFO ] 09-05-2023 09:38:33 [TestNG-tests-1] Log - [test_01] [PASSED]
+[INFO ] 09-05-2023 09:38:41 [TestNG-tests-1] Log - Starting......!
+[INFO ] 09-05-2023 09:38:44 [TestNG-tests-1] Log - [test_02] [PASSED]
+[INFO ] 09-05-2023 09:38:44 [TestNG-tests-1] Log - Kết thúc thực hiện chạy test case Testing on Login Page Device 1
+[INFO ] 09-05-2023 09:39:16 [TestNG-tests-2] Log - Bắt đầu thực hiện chạy test case Testing on Login Page Device 2
+[INFO ] 09-05-2023 09:39:16 [TestNG-tests-1] Log - Bắt đầu thực hiện chạy test case Testing on Login Page Device 1
+[INFO ] 09-05-2023 09:39:29 [TestNG-tests-1] Log - Starting......!
+[INFO ] 09-05-2023 09:39:29 [TestNG-tests-1] Log - Enter an email to Email field
+[INFO ] 09-05-2023 09:39:32 [TestNG-tests-1] Log - Enter a password to Password field
+[INFO ] 09-05-2023 09:39:34 [TestNG-tests-1] Log - Click on Login button
+[INFO ] 09-05-2023 09:39:34 [TestNG-tests-2] Log - Starting......!
+[INFO ] 09-05-2023 09:39:34 [TestNG-tests-2] Log - Enter an email to Email field
+[INFO ] 09-05-2023 09:39:35 [TestNG-tests-1] Log - [test_01] [PASSED]
+[INFO ] 09-05-2023 09:39:37 [TestNG-tests-2] Log - Enter a password to Password field
+[INFO ] 09-05-2023 09:39:39 [TestNG-tests-2] Log - Click on Login button
+[INFO ] 09-05-2023 09:39:40 [TestNG-tests-2] Log - [test_01] [PASSED]
+[INFO ] 09-05-2023 09:39:47 [TestNG-tests-1] Log - Starting......!
+[INFO ] 09-05-2023 09:39:51 [TestNG-tests-1] Log - [test_01] [PASSED]
+[INFO ] 09-05-2023 09:39:52 [TestNG-tests-2] Log - Starting......!
+[INFO ] 09-05-2023 09:39:56 [TestNG-tests-2] Log - [test_01] [PASSED]
+[INFO ] 09-05-2023 09:40:03 [TestNG-tests-1] Log - Starting......!
+[INFO ] 09-05-2023 09:40:07 [TestNG-tests-1] Log - [test_02] [PASSED]
+[INFO ] 09-05-2023 09:40:07 [TestNG-tests-1] Log - Kết thúc thực hiện chạy test case Testing on Login Page Device 1
+[INFO ] 09-05-2023 09:40:09 [TestNG-tests-2] Log - Starting......!
+[INFO ] 09-05-2023 09:40:12 [TestNG-tests-2] Log - [test_02] [PASSED]
+[INFO ] 09-05-2023 09:40:12 [TestNG-tests-2] Log - Kết thúc thực hiện chạy test case Testing on Login Page Device 2
+[INFO ] 09-05-2023 09:40:29 [TestNG-tests-2] Log - Bắt đầu thực hiện chạy test case Testing on Login Page Device 2
+[INFO ] 09-05-2023 09:40:29 [TestNG-tests-1] Log - Bắt đầu thực hiện chạy test case Testing on Login Page Device 1
+[INFO ] 09-05-2023 09:40:42 [TestNG-tests-1] Log - Starting......!
+[INFO ] 09-05-2023 09:40:42 [TestNG-tests-1] Log - Enter an email to Email field
+[INFO ] 09-05-2023 09:40:42 [TestNG-tests-2] Log - Starting......!
+[INFO ] 09-05-2023 09:40:42 [TestNG-tests-2] Log - Enter an email to Email field
+[INFO ] 09-05-2023 09:40:44 [TestNG-tests-1] Log - Enter a password to Password field
+[INFO ] 09-05-2023 09:40:44 [TestNG-tests-2] Log - Enter a password to Password field
+[INFO ] 09-05-2023 09:40:46 [TestNG-tests-1] Log - Click on Login button
+[INFO ] 09-05-2023 09:40:46 [TestNG-tests-2] Log - Click on Login button
+[INFO ] 09-05-2023 09:40:47 [TestNG-tests-2] Log - [test_01] [PASSED]
+[INFO ] 09-05-2023 09:40:47 [TestNG-tests-1] Log - [test_01] [PASSED]
+[INFO ] 09-05-2023 09:41:00 [TestNG-tests-2] Log - Starting......!
+[INFO ] 09-05-2023 09:41:01 [TestNG-tests-1] Log - Starting......!
+[INFO ] 09-05-2023 09:41:04 [TestNG-tests-2] Log - [test_01] [PASSED]
+[INFO ] 09-05-2023 09:41:04 [TestNG-tests-1] Log - [test_01] [PASSED]
+[INFO ] 09-05-2023 09:41:17 [TestNG-tests-2] Log - Starting......!
+[INFO ] 09-05-2023 09:41:17 [TestNG-tests-1] Log - Starting......!
+[INFO ] 09-05-2023 09:41:21 [TestNG-tests-2] Log - [test_02] [PASSED]
+[INFO ] 09-05-2023 09:41:21 [TestNG-tests-2] Log - Kết thúc thực hiện chạy test case Testing on Login Page Device 2
+[INFO ] 09-05-2023 09:41:21 [TestNG-tests-1] Log - [test_02] [FAILED]
+[INFO ] 09-05-2023 09:41:22 [TestNG-tests-1] Log - Kết thúc thực hiện chạy test case Testing on Login Page Device 1
+[INFO ] 09-05-2023 09:44:39 [TestNG-tests-2] Log - Bắt đầu thực hiện chạy test case Testing on Login Page Device 2
+[INFO ] 09-05-2023 09:44:39 [TestNG-tests-1] Log - Bắt đầu thực hiện chạy test case Testing on Login Page Device 1
+[INFO ] 09-05-2023 09:44:50 [TestNG-tests-2] Log - Starting......!
+[INFO ] 09-05-2023 09:44:50 [TestNG-tests-2] Log - Enter an email to Email field
+[INFO ] 09-05-2023 09:44:50 [TestNG-tests-1] Log - Starting......!
+[INFO ] 09-05-2023 09:44:50 [TestNG-tests-1] Log - Enter an email to Email field
+[INFO ] 09-05-2023 09:44:52 [TestNG-tests-2] Log - Enter a password to Password field
+[INFO ] 09-05-2023 09:44:52 [TestNG-tests-1] Log - Enter a password to Password field
+[INFO ] 09-05-2023 09:44:54 [TestNG-tests-2] Log - Click on Login button
+[INFO ] 09-05-2023 09:44:54 [TestNG-tests-1] Log - Click on Login button
+[INFO ] 09-05-2023 09:44:55 [TestNG-tests-2] Log - [test_01] [PASSED]
+[INFO ] 09-05-2023 09:44:56 [TestNG-tests-1] Log - [test_01] [PASSED]
+[INFO ] 09-05-2023 09:45:06 [TestNG-tests-2] Log - Starting......!
+[INFO ] 09-05-2023 09:45:07 [TestNG-tests-1] Log - Starting......!
+[INFO ] 09-05-2023 09:45:09 [TestNG-tests-2] Log - [test_01] [PASSED]
+[INFO ] 09-05-2023 09:45:10 [TestNG-tests-1] Log - [test_01] [PASSED]
+[INFO ] 09-05-2023 09:45:21 [TestNG-tests-2] Log - Starting......!
+[INFO ] 09-05-2023 09:45:22 [TestNG-tests-1] Log - Starting......!
+[INFO ] 09-05-2023 09:45:24 [TestNG-tests-2] Log - [test_02] [PASSED]
+[INFO ] 09-05-2023 09:45:24 [TestNG-tests-2] Log - Kết thúc thực hiện chạy test case Testing on Login Page Device 2
+[INFO ] 09-05-2023 09:45:26 [TestNG-tests-1] Log - [test_02] [PASSED]
+[INFO ] 09-05-2023 09:45:26 [TestNG-tests-1] Log - Kết thúc thực hiện chạy test case Testing on Login Page Device 1
